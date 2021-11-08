@@ -4,7 +4,8 @@
 This is a team project. In this project, we created a beach website project called "Waves". The project allows non-authenticated visitors to access retrieving data, authenticated users to access C.R.U.D. functionality a visitor cannot, and authenticated and privileged admin to access data regular users cannot.
 
 # How to Use
-Please visit 18.118.127.156:8080/Waves.  On the Home page, options are displayed in the left menu. Non-authenticated visitors can look at beach list, search beaches by keyword, search beaches by rating and search the nearest beaches to the beaches and their details. Please Login as "fred" with the password "fred" to create or update a weather or report comment. To access the maintain menu, please use "yanyan" with the password "yanyan" to login as an admin to enable/disable the beaches and users, and create new beaches. If a user is disabled, it is going to fail to login with this user. Register will fail if the new username if the username is already registered(in the database).
+* Please visit  http://18.118.127.156:8080/Waves.  On the Home page, options are displayed in the left menu. Non-authenticated visitors can look at beach list, search beaches by keyword, search beaches by rating and search the nearest beaches to the beaches and their details.
+* Please Login as "fred" with the password "fred" to create or update a weather or report comment. To access the maintain menu, please use "yanyan" with the password "yanyan" to login as an admin to enable/disable the beaches and users, and create new beaches. If a user is disabled, it is going to fail to login with this user. Register will fail if the new username if the username is already registered(in the database).
 
 # Technologies Used
 * Java REST
